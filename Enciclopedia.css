@@ -1,0 +1,20 @@
+*{
+    margin: auto;
+    background-color: saddlebrown;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.titulo{
+    margin: auto;
+    text-align: center;
+}
+.introduccion{
+    border: black 5px ridge;
+    border-radius: 5px;
+    text-align: justify;
+}
+.inicios{
+    border: black 5px ridge;
+    border-radius: 5px;
+    text-align: justify;
+}
